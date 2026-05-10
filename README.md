@@ -417,10 +417,4 @@ Each entry includes: timestamp, username, role, action, location, code entered, 
 
 ---
 
-## License
-
-MIT License — free to use and modify.
-
----
-
 *ICT Project 2026 — Sagar Kandel*
